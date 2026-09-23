@@ -1,6 +1,5 @@
 // 27. Remove Element
-#include <iostream>
-#include <vector>
+#include "libraries.cpp"
 
 class Solution {
 public:
